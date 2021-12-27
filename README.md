@@ -1,4 +1,4 @@
-# flutter_bluetooth_printer
+# flutter_bluetooth_printer_connector
 
 A plugin to allow simple connection to bluetooth printers (Android Only).
 
